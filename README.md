@@ -1,27 +1,3 @@
-<style>
-  :root {
-    --pastel-pink: #f59ec2ff;
-    --pastel-grey: #474646ff;
-  }
-
-  /* Estilos generales (modo claro) */
-  h2, h3 {
-    color: var(--pastel-pink) !important;
-  }
-
-  h4, h5, h6,
-  p {
-    color: var(--pastel-grey) !important;
-  }
-
-  /*  Dark Mode — */
-  html[data-color-mode="dark"] h4,
-  html[data-color-mode="dark"] h5,
-  html[data-color-mode="dark"] h6,
-  html[data-color-mode="dark"] p {
-    color: var(--pastel-grey) !important;
-  }
-</style>
 
 
 ## Hi there, I'm Francini! ✨

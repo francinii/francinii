@@ -1,4 +1,4 @@
-# Hi there, I'm Francini! 👋✨
+## Hi there, I'm Francini! ✨
 
 ### 👩‍💻 Software Engineer | 🔬 Researcher | 🚀 Tech Enthusiast
 
@@ -6,83 +6,80 @@ Welcome to my little corner of the tech universe ✨! I am a passionate professi
 
 My goal is to bridge the gap between theoretical research and impactful software solutions. Always learning, always evolving! 🌱
 
----
 
-## 💻 My Core Tech Stack
+
+### 💻 My Core Tech Stack
 
 Here are the tools and languages that power my work across engineering and research:
 
-<!-- ===========================
-        Development
-=========================== -->
-<h6> Development</h6>
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-  
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/GIT-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> 
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
 
-  
-</p>
+  <!-- Cuadrante 1 -->
+  <div>
+    <h6>Development</h6>
+    <p>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GIT-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+    </p>
+  </div>
 
-<!-- ===========================
-        Databases
-=========================== -->
-<h6>Databases </h6>
-<p>
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"/>
-  <img src="https://img.shields.io/badge/PostGIS-008800?style=flat-square&logo=postgis&logoColor=white" alt="PostGIS"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <!-- Cuadrante 2 -->
+  <div>
+    <h6>Databases</h6>
+    <p>
+      <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostGIS-008800?style=flat-square&logo=postgis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    </p>
+  </div>
 
+  <!-- Cuadrante 3 -->
+  <div>
+    <h6>Machine Learning & AI</h6>
+    <p>
+      <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI%20Agents-000000?style=flat-square&logo=OpenAI&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LLM-000000?style=flat-square&logo=OpenAI&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=flat-square&logo=sparkles&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+    </p>
+  </div>
 
-</p>
+  <!-- Cuadrante 4 -->
+  <div>
+    <h6>Quantum Computing</h6>
+    <p>
+      <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cirq-3C3C3C?style=flat-square&logo=google&logoColor=yellow"/>
+      <img src="https://img.shields.io/badge/QASM-000000?style=flat-square&logo=quantconnect&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PennyLane-FF3366?style=flat-square&logo=pennylane&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Q%23-512BD4?style=flat-square&logo=microsoft&logoColor=white"/>
+      <img src="https://img.shields.io/badge/quAPL-0066CC?style=flat-square&logo=quantum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Qmod-444444?style=flat-square&logo=code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Qrisp-0A0A0A?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Qbraid-111111?style=flat-square&logo=cloud&logoColor=white"/>
+    </p>
+  </div>
 
-<!-- ===========================
- Machine Learning & AI
-=========================== -->
-<h6>Machine Learning & AI</h6>
-<p>
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure OpenAI"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=flat-square&logo=OpenAI&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/LLM-000000?style=flat-square&logo=OpenAI&logoColor=white" alt="LLM"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=flat-square&logo=sparkles&logoColor=white" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-</p>
-
-<!-- ===========================
-        Quantum Computing
-=========================== -->
-<h6> Quantum Computing</h6>
-<p>
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit"/>
-  <img src="https://img.shields.io/badge/Cirq-3C3C3C?style=flat-square&logo=google&logoColor=yellow" alt="Cirq"/>  
-  <img src="https://img.shields.io/badge/QASM-000000?style=flat-square&logo=quantconnect&logoColor=white" alt="QASM"/>
-  <img src="https://img.shields.io/badge/PennyLane-FF3366?style=flat-square&logo=pennylane&logoColor=white" alt="PennyLane"/>
-  
-  <img src="https://img.shields.io/badge/Q%23-512BD4?style=flat-square&logo=microsoft&logoColor=white" alt="Q#"/>
-  <img src="https://img.shields.io/badge/quAPL-0066CC?style=flat-square&logo=quantum&logoColor=white" alt="quAPL"/>
-  <img src="https://img.shields.io/badge/Qmod-444444?style=flat-square&logo=code&logoColor=white" alt="Qmod"/>
-  <img src="https://img.shields.io/badge/Qrisp-0A0A0A?style=flat-square&logo=python&logoColor=white" alt="qrisp"/>
-  <img src="https://img.shields.io/badge/Qbraid-111111?style=flat-square&logo=cloud&logoColor=white" alt="Qbraid"/>
-</p>
+</div>
 
 ---
 
-## 🛠️ Expertise & Current Focus
+### 🛠️ Expertise & Current Focus
 
 #### 🐍 Backend Development (Focus on Python)
 I specialize in building high-performance, scalable web architectures. My experience includes developing enterprise-level solutions and integrating advanced **Agentic Systems** into production environments. I leverage **FastAPI** and **Django** to create secure and efficient RESTful APIs and microservices.

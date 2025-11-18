@@ -76,7 +76,6 @@ Here are the tools and languages that power my work across engineering and resea
     </td>
   </tr>
 </table>
-⌈
 
 ---
 

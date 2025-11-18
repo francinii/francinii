@@ -2,7 +2,7 @@
 
 ### 👩‍💻 Software Engineer | 🔬 Researcher | 🚀 Tech Enthusiast
 
-Welcome to my digital garden! I am a passionate professional driven by curiosity and a deep love for **science and technology**. I thrive on solving complex problems, whether it's architecting robust backend systems, exploring the frontiers of AI, or diving into the quantum realm.
+Welcome to my little corner of the tech universe ✨! I am a passionate professional driven by curiosity and a deep love for **science and technology**. I thrive on solving complex problems, whether it's architecting robust backend systems, exploring the frontiers of AI, or diving into the quantum realm.
 
 My goal is to bridge the gap between theoretical research and impactful software solutions. Always learning, always evolving! 🌱
 

@@ -1,12 +1,14 @@
 
 
 ## Hi there, I'm Francini! ✨
-**👩‍💻 Software Engineer | 🔬 Researcher | 🚀 Tech Enthusiast**
+** Software Engineer | Researcher | Tech Enthusiast**
 
 
-Welcome to my little corner of the tech universe ✨! I am a passionate professional driven by curiosity and a deep love for science and technology. I thrive on solving complex problems, whether it's architecting robust backend systems, exploring the frontiers of AI, or diving into the quantum realm.
+Welcome to my little corner of the tech and science universe! I am a passionate professional driven by curiosity and a deep love for science and technology. I thrive on solving complex problems, whether it's architecting robust backend systems, exploring the frontiers of AI, or diving into the quantum realm.
 
-My goal is to bridge the gap between theoretical research and impactful software solutions. Always learning, always evolving! 🌱
+My goal is to bridge the gap between theoretical research and impactful software solutions. 
+
+Always learning, always evolving!
 
 
 
@@ -82,13 +84,13 @@ Here are the tools and languages that power my work across engineering and resea
 ### 🛠️ Expertise & Current Focus
 
 #### 🐍 Backend Development (Focus on Python)
-I specialize in building high-performance, scalable web architectures. My experience includes developing enterprise-level solutions and integrating advanced Agentic Systems into production environments. I leverage FastAPI and Django to create secure and efficient RESTful APIs and microservices.
+I specialize in building high-performance, scalable web architectures. My experience includes developing enterprise-level solutions and integrating advanced Agentic Systems into production environments. I leverage Python and FastAPI to create secure and efficient RESTful APIs and microservices.
 
 #### 🤖 Machine Learning & AI
-My work involves strategic integration of AI, where I focus heavily on Prompt Engineering and leveraging platforms like Azure OpenAI and Dify. I enjoy building personal projects that integrate Large Language Models (LLMs) and exploring the complexities of Multi-Agent Systems to optimize model interaction and performance.
+My work involves strategic integration of AI, where I focus heavily on Prompt Engineering and LLM integrations leveraging platforms like Azure OpenAI and Dify. I enjoy building personal projects that integrate Large Language Models (LLMs) and exploring the complexities of Multi-Agent Systems to optimize model interaction and performance.
 
 #### ⚛️ Quantum Computing Research
-My deepest curiosity lies at the intersection of computer science and physics. I am currently conducting research in this area, exploring:
+My deepest curiosity lies at the intersection of computer science and physics. I am currently conducting research in this area:
 * **Expressivity of Quantum Programming Languages:** Analyzing the power and limitations of quantum programming paradigms.
 * **Quantum Machine Learning (QML):** Merging quantum algorithms with classical learning techniques.
 
@@ -152,5 +154,5 @@ I'm always open to discussing technology, research collaborations, or just shari
 ---
 <details>
   <summary>✨ Secret Message</summary>
-  Thanks for being curious. People like you move science forward. 🚀
+  Thanks for being curious. People like you move science and tech forward. 🚀
 </details>

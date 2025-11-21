@@ -1,7 +1,7 @@
 
 
 ## Hi there, I'm Francini! ✨
-** Software Engineer | Researcher | Tech Enthusiast**
+**Software Engineer | Researcher | Tech Enthusiast**
 
 
 Welcome to my little corner of the tech and science universe! I am a passionate professional driven by curiosity and a deep love for science and technology. I thrive on solving complex problems, whether it's architecting robust backend systems, exploring the frontiers of AI, or diving into the quantum realm.
